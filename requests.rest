@@ -11,15 +11,15 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:3001/todo/delete/
+DELETE http://localhost:3001/todo/delete/70e565ea6147v95jf0574124
 
 ###
 
-GET http://localhost:3001/todo/complete/
+GET http://localhost:3001/todo/complete/70e565ea6147v95jf0574124
 
 ###
 
-PUT http://localhost:3001/todo/update/
+PUT http://localhost:3001/todo/update/70e565ea6147v95jf0574124
 Content-Type: application/json
 
 {
